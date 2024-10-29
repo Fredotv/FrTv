@@ -53,7 +53,7 @@ https://xmltv.tvkaista.net/guides/allente.no.xml
 
 
 
-
+# Sony France
 #EXTINF:-1, group-title="SONY"  tvg-chno="4129" tvg-id="FR300011G9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300011G9_20240423T033345SQUARE.png",Sony One Favoris
 https://linear-820.frequency.stream/mt/studio/820/hls/master/playlist.m3u8
 #EXTINF:-1, group-title="SONY"  tvg-chno="4135" tvg-id="FR3000082K" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3000082K_20240423T033351SQUARE.png",Sony One Séries Comédie
@@ -3542,13 +3542,17 @@ https://mayi24312.mayicloud.com/files/aa/Y2YuR2GilbL1uWDSJEshEZdDe72jEaKCdI7.m3u
 
 
 
+#EXTINF:-1, group-title="CONCERTS" tvg-logo="https://images.rtl.fr/~c/1200v800/rtl2/www/1658338-shaka-ponk-en-concert-tres-tres-prive-rtl2.jpeg",L'INTÉGRALE - Shaka Ponk en Concert Très Très Privé RTL2 (28/02/24)
+https://www.youtube.com/watch?v=sWEydZnBgsM
+
+#EXTINF:-1, group-title="CONCERTS" tvg-logo="https://i.ytimg.com/vi/iKKtYenGHj8/maxresdefault.jpg",The Offspring - Hellfest 2024 - ARTE Concert
+https://www.youtube.com/watch?v=iKKtYenGHj8&pp=ygUbY29uY2VydCBjb21wbGV0IDIwMjQgZnJhbmNl
 
 
 
 
 
 
-#EXTM3U#
 EXTINF:0 group-title="RADIO FM",RTL2
 http:///rtl2-1-48-72.aac
 #EXTINF:-1 group-title="RADIO FM",VOLTAGE FM PARIS
