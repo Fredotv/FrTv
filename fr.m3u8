@@ -3055,7 +3055,7 @@ https://r.mjh.nz/PlutoTV/6231ec93779a9d00079ba8e2-alt.m3u8
 
 
 
-
+# PlutoTV Fr
 #EXTINF:-1, group-title="PLUTO TV" channel-id="samsung-FRBD37000020Y" tvg-id="FRBD37000020Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD37000020Y_20240117T032751SQUARE.png_20240117032752.png" tvg-chno="4001",Plus belle la vie
 https://i.mjh.nz/SamsungTVPlus/FRBD37000020Y.m3u8
 
@@ -3426,7 +3426,7 @@ https://i.mjh.nz/SamsungTVPlus/FRAJ4500023UP.m3u8
 
 
 
-
+# VOD Fr
 #EXTINF:-1, group-title="VOD" tvg-logo="https://media.themoviedb.org/t/p/original/spWV1eRzlDxvai8LbxwAWR0Vst4.jpg",Arcadian
 https://mayi22143.mayicloud.com/files/aa/PrnurqLfCrWGieF3u2czUIBJuRDpQptGRRa.m3u8
 
@@ -3550,7 +3550,7 @@ https://mayi22140.mayicloud.com/files/aa/pxMbyglv0T170T509M1mJYwnkF3G8kaySXJ.m3u
 
 
 
-
+# Spetacles Fr
 #EXTINF:-1, group-title="SPETACLES" tvg-logo="https://media.themoviedb.org/t/p/original/4tqOt2vNRUMLHWBm8LBfJxBTjHo.jpg",Fary : Aime-moi si tu peux (2024)
 https://mayi22142.mayicloud.com/files/aa/QvECglhns4fePN4Iy6kKGjfeg7HtoQQeluQ.m3u8
 
@@ -3597,7 +3597,7 @@ https://share22147.sharecloudy.com/files/aa/QvECglhns4fePN4Iy6kKGjfeg7HtoQQeluQ.
 
 
 
-
+# Concerts Fr
 #EXTINF:-1, group-title="CONCERTS" tvg-logo="https://images.rtl.fr/~c/1200v800/rtl2/www/1658338-shaka-ponk-en-concert-tres-tres-prive-rtl2.jpeg",L'INTÉGRALE - Shaka Ponk en Concert Très Très Privé RTL2 (28/02/24)
 https://www.youtube.com/watch?v=sWEydZnBgsM
 
@@ -3608,7 +3608,7 @@ https://www.youtube.com/watch?v=iKKtYenGHj8&pp=ygUbY29uY2VydCBjb21wbGV0IDIwMjQgZ
 
 
 
-
+# Radio FM Fr
 EXTINF:0 group-title="RADIO FM",RTL2
 http:///rtl2-1-48-72.aac
 #EXTINF:-1 group-title="RADIO FM",VOLTAGE FM PARIS
